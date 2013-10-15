@@ -5,6 +5,12 @@ package primeministers;
  */
 public abstract class IO extends Object
 {
+    
+    /**
+     *test
+     *
+     */
+    
 	/**
 	 * ここを作成してください。
 	 * まず、次のページを参照しながら、スケルトン（スタブ）を作ることから始めましょう。
